@@ -1,5 +1,8 @@
 Git is a version control system.
 Git is free software.
-123
-456
-789
+Git is a version control system.
+Git is free software.
+Git is a version control system.
+Git is free software.
+Git is a version control system.
+Git is free software.
